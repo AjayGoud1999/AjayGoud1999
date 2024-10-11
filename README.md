@@ -1,5 +1,7 @@
 💫 About Me
 ----------------------------
+![image](https://github.com/user-attachments/assets/20851f5b-66e4-4847-90cd-198f24946f53)
+
 
 🚀 Professional Aspirations
 ----------------------------------------------------------------------------------------------------
@@ -23,7 +25,8 @@
 
 💻 Tech Stack:
 ------------------------------------------
-Python, Java, NodeJS,  GraphQL, TypeScript, JavaScript, CSS3, GithubPages, Firebase, Netlify, AWS, Anaconda, Angular, Apache, Kafka, Django, Bootstrap, Express.js, Flask, React, Vue.js, Apache, Maven, Jenkins, Nginx, Postgres, MongoDB, MySQL, Redis, Docker, Kubernetes
+![image](https://github.com/user-attachments/assets/4333daf1-ef22-4013-b59a-571fe7b21541)
+
 
 
 
