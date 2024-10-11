@@ -1,6 +1,6 @@
 💫 About Me
 ----------------------------
-![image](https://github.com/user-attachments/assets/20851f5b-66e4-4847-90cd-198f24946f53)
+https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif
 
 
 🚀 Professional Aspirations
