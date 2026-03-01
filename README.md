@@ -1,6 +1,6 @@
 💫 About Me
 ----------------------------
-## <center> Hi 👋, I'm Ajay Goud Singam </center>
+## <center> Hi 👋, I'm Ajay Singam </center>
 
 ![140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70](https://github.com/user-attachments/assets/f8856b48-74b1-4f0c-9173-e4217c2620c9)
 
